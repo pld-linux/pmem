@@ -1,5 +1,5 @@
-Summary:	pmem displays memory information about processes
-Summary(pl):	pmem wy¶wietla ilo¶æ pamiêci zu¿ywanej przez proces
+Summary:	pmem - display memory information about processes
+Summary(pl):	pmem - wy¶wietlanie ilo¶ci pamiêci zu¿ywanej przez proces
 Name:		pmem
 Version:	1.1.1
 Release:	0.1
@@ -21,7 +21,7 @@ do not maintain this files system.
 
 %description -l pl
 pmem jest ma³ym narzêdziem dla wszystkich systemów linuksowych i
-uniksowych. Wy¶wietla informacje o zajmowanej pamiêci przez
+uniksowych. Wy¶wietla informacje o pamiêci zajmowanej przez
 uruchomione procesy. pmem osi±ga to przez odczytywanie informacji
 zawartych w systemie plików /proc.
 
@@ -48,5 +48,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README AUTHORS NEWS ChangeLog
-
 %attr(755,root,root) %{_bindir}/pmem
