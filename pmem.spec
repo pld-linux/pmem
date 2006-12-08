@@ -1,12 +1,12 @@
 Summary:	pmem - display memory information about processes
 Summary(pl):	pmem - wy¶wietlanie ilo¶ci pamiêci zu¿ywanej przez proces
 Name:		pmem
-Version:	1.1.1
+Version:	1.1.2
 Release:	0.1
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://www.pmem.net/%{name}-%{version}.tar.gz
-# Source0-md5:	ce08243475be7d94af5c3f5c330b95e4
+# Source0-md5:	bfc9e80a6896e24cffb0e83373c22d52
 URL:		http://www.pmem.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
