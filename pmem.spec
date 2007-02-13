@@ -1,5 +1,5 @@
 Summary:	pmem - display memory information about processes
-Summary(pl.UTF-8):   pmem - wyświetlanie ilości pamięci zużywanej przez proces
+Summary(pl.UTF-8):	pmem - wyświetlanie ilości pamięci zużywanej przez proces
 Name:		pmem
 Version:	1.1.2
 Release:	0.1
